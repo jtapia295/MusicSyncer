@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MusicSyncer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
